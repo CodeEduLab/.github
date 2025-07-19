@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="300" alt="Código animado terminal" />
+</p>
+
+
 # 👨‍🏫👩‍🏫 CodeEduLab - Matemática y Programación
 
 **CodeEduLab** es una organización dedicada al desarrollo colaborativo de recursos educativos en **programación aplicada a la enseñanza universitaria de la Matemática**, dirigida a docentes que desean integrar herramientas computacionales en sus clases.
