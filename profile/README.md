@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="300" alt="Código animado terminal" />
+  <img src="https://media0.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="220" alt="Código animado terminal" />
 </p>
 
 
