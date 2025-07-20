@@ -1,21 +1,22 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="220" alt="Código animado terminal" />
 </p>
+
 <table>
   <tr>
     <td>
-
-      <p># 👨‍🏫👩‍🏫 CodeEduLab - Matemática y Programación
-
-**CodeEduLab** es una organización dedicada al desarrollo colaborativo de recursos educativos en **programación aplicada a la enseñanza universitaria de la Matemática**, dirigida a docentes que desean integrar herramientas computacionales en sus clases.
-</p>
+      <h2>👨‍🏫👩‍🏫 CodeEduLab - Matemática y Programación</h2>
+      <p>
+        <strong>CodeEduLab</strong> es una organización dedicada al desarrollo colaborativo de recursos educativos en 
+        <strong>programación aplicada a la enseñanza universitaria de la Matemática</strong>, dirigida a docentes que desean 
+        integrar herramientas computacionales en sus clases.
+      </p>
     </td>
     <td>
       <img src="https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="160" alt="Python coding GIF" />
     </td>
   </tr>
 </table>
-
 
 
 ---
